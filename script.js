@@ -50,4 +50,4 @@ function shareResult() {
 
 function followChannel() {
   window.open("https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C", "_blank");
-}
+    }
